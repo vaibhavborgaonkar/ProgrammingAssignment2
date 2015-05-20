@@ -1,5 +1,5 @@
 ## 
-A pair of functions that cache the inverse of a matrix to avoid computing again and again.
+A pair of functions that cache the inverse of a matrix to avoid computing over and over again.
 
 ## makeCacheMatrix creates a special "matrix" object that can cache its inverse.
 
